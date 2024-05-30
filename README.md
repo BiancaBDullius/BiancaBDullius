@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/bianca-beppler-958133160/">
     <img align="center" alt="Bianca's LinkedIn" height="30px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
+    <a href="https://wa.me/5551981750821">
+    <img align="center" alt="Bianca's WhatsApp" height="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </div>
 
 ### :eyes: About me :eyes:
